@@ -1,0 +1,33 @@
+.pg-container{
+	margin-left:20px;
+	margin-right:20px;
+}
+.pg-row{
+	overflow:hidden;
+	clear:both;
+}
+@media (min-width:600px){
+	.pg-columns{
+		float:left;
+		width:32%
+	}
+}
+
+.pg-columns{
+	text-align:center;
+}
+
+#pg-headline{
+	text-align:center;
+}
+#pg-header{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+#pg-footer{
+	margin-top:20px;
+	margin-bottom:20px;
+	clear:both
+	
+}
+
